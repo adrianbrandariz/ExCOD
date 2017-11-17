@@ -17,6 +17,8 @@ public class ExCOD1Av {
     public static void main(String[] args) {
         System.out.println("Aquí voy a hacer mi primer commit, COMMIT A");
         System.out.println("No se como seguir, asi que hago el COMMIT B");
+        // Momento culmen, preparan en la master el siguiente commit para el merge
+        System.out.println("Commit E");
     }
     
 }
